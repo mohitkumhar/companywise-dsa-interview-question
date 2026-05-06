@@ -16,13 +16,7 @@ Attributes like Difficulty, Acceptance %, Frequency % are also added to enable f
 > If you need to sort/filter the questions based on frequency/difficulty, please clone the repo and perform operations in any CSV Editor (Excel / Google Sheets / OpenOffice Calc)
 
 # Star History
-<a href="https://www.star-history.com/?repos=mohitkumhar%2Fcompanywise-dsa-interview-question&type=date&legend=bottom-right">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=mohitkumhar/companywise-dsa-interview-question&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=mohitkumhar/companywise-dsa-interview-question&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=mohitkumhar/companywise-dsa-interview-question&type=date&legend=bottom-right" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/chart?repos=mohitkumhar/companywise-dsa-interview-question&type=date&legend=bottom-right)](https://www.star-history.com/?repos=mohitkumhar%2Fcompanywise-dsa-interview-question&type=date&legend=bottom-right)
 
 ## Happy LeetCoding. May the +ve force be with you.
 
